@@ -1,4 +1,4 @@
-# ☕ Coffee Website
+#  Coffee Website
 
 A modern and responsive coffee shop website with multiple sections including Hero, About, Menu, Testimonials, Gallery, and Contact.  
 Built using **HTML, CSS, and JavaScript** with **Font Awesome** icons and **Swiper.js** for sliders.
@@ -6,7 +6,7 @@ Built using **HTML, CSS, and JavaScript** with **Font Awesome** icons and **Swip
 ---
 ---
 
-## 📂 Project Structure
+##  Project Structure
 coffee-website/
 │
 ├── images/ # All images used in the project
@@ -24,7 +24,7 @@ coffee-website/
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Responsive Navbar** with mobile menu toggle
 - **Hero Section** with catchy heading & CTA buttons
@@ -38,7 +38,7 @@ coffee-website/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -48,7 +48,7 @@ coffee-website/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the Repository**
    ```bash
